@@ -4,7 +4,7 @@ print("Welcome to Apple's ChatBot!.\nThis can answer questions about Recently la
 iphone_data = {
     "iphone_18_pro": {
         "name": "iPhone 18 Pro",
-        "price_INR_from":"₹1,64,900",
+        "price_INR_from":"1,64,900",
         "storage": ["256GB", "512GB", "1TB", "2TB"],
         "colors": ["Black", "Silver", "Glacier", "Burgundy"],
         "screen": "6.3 inches",
@@ -14,7 +14,7 @@ iphone_data = {
 
     "iphone_18_pro_max": {
         "name": "iPhone 18 Pro Max",
-        "price_INR_from":"₹1,79,900",
+        "price_INR_from":"1,79,900",
         "storage": ["256GB", "512GB", "1TB", "2TB"],
         "colors": ["Black", "Silver", "Glacier", "Burgundy"],
         "screen": "6.9 inches",
@@ -24,7 +24,7 @@ iphone_data = {
 
     "iphone_duo": {
         "name": "iPhone Duo",
-        "price_INR_from":"₹2,99,900",
+        "price_INR_from":"2,99,900",
         "storage": ["256GB", "512GB", "1TB", "2TB"],
         "colors": ["Night Sky", "Star White"],
         "screen": "7.6-inch inside screen and 5.4-inch outside screen",
